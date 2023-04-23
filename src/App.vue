@@ -16,13 +16,13 @@ import HelloWorld from './components/HelloWorld.vue'
 
             <div class="collapse navbar-collapse justify-content-md-between" id="navbarScroll">
                 <ul class="navbar-nav my-2 my-lg-0 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <RouterLink to="/" class="nav-link active">Home</RouterLink>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
-                        <RouterLink to="/about" class="nav-link active">About</RouterLink>
+                        <RouterLink to="/historia" class="nav-link active">História</RouterLink>
                     </li>
-                    <li class="nav-item dropdown">
+                    <!-- <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Link
                         </a>
@@ -37,7 +37,7 @@ import HelloWorld from './components/HelloWorld.vue'
                     </li>
                     <li class="nav-item">
                         <a class="nav-link disabled">Link</a>
-                    </li>
+                    </li> -->
                 </ul>
 
                 <form class="d-flex" role="search">
