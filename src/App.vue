@@ -41,7 +41,7 @@ import { RouterLink, RouterView } from 'vue-router'
 
                 <form class="d-flex" role="search">
                     <input class="inputUser form-control me-2" type="search" placeholder="Fala..." aria-label="Search">
-                    <button class="btn btn-outline-warning" type="submit">Search</button>
+                    <button class="btn btn-outline-warning" type="submit">Pesquisar</button>
                 </form>
             </div>
         </div>
