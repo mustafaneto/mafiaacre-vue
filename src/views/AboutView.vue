@@ -25,17 +25,16 @@
 </template>
 
 <style scoped>
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
   img {
     margin: auto;
     max-width: 200px;
     width: 100%;
   }
 
-  h1{
-    text-align: center;
-  }
-
   h3 {
+    font-weight: 700;
     font-size: 18px;
     margin: auto;
     text-align: center;
@@ -55,6 +54,8 @@
 
   .textContent {
     padding: 50px;
+    color: black;
+    font-family: 'Lato', sans-serif;
   }
 
   .socialContent{
