@@ -1,12 +1,6 @@
 <template>
   <div class="home">
-    <v-autocomplete
-      clearable
-      label="Autocomplete"
-      class="selectCity"
-      :items="['California', 'Colorado', 'Florida', 'Georgia', 'Texas', 'Wyoming']"
-      variant="solo"
-    ></v-autocomplete>
+    <h1>VIDAAAAAA</h1>
   </div>
 </template>
 
@@ -19,7 +13,7 @@ export default {
 <style scoped>
   .home{
     max-width: 1000px;
-    height: max-content;
+    height: 100vh;
     margin: auto;
     padding: 20px;
     background-color: white;
